@@ -7,3 +7,4 @@ https://medium.com/towards-data-science/deep-dive-into-transformers-by-hand-%EF%
 
 https://medium.com/towards-data-science/deep-dive-into-self-attention-by-hand-%EF%B8%8E-f02876e49857
 
+Work in progress!
